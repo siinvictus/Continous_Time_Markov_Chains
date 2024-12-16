@@ -1,2 +1,7 @@
 # Continous_Time_Markov_Chains
 This project was conducted for my master's studies in network dynamics. The goal was to simulate dynamic processes on networks, focusing on continuous-time Markov Chains and their statistical properties, while analyzing metrics and comparing simulation results with theoretical calculations.
+
+In this homework, the goal was to simulate dynamic processes on networks, focusing on continuous-time random walks and their associated statistical properties.Students were tasked with understanding the return and hitting times for random walks and comparing their simulation results with theoretical calculations.The exercises also included studying opinion dynamics on networks, analyzing whether consensus is reached, and understanding how graph structure influences outcomes. Another aspect involved simulating multiple particles moving through a network and comparing particle behavior from both individual and node perspectives. The homework expanded into analyzing open networks, simulating systems under proportional and fixed particle flow rates, and identifying the conditions under which the network can handle the input without becoming unstable. The overall objective was to strengthen students’ ability to simulate, analyze, and interpret complex dynamic behaviors in networked systems.
+
+
+### Use under:  Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.
